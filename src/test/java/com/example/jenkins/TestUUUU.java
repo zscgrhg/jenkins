@@ -30,13 +30,13 @@ public class TestUUUU {
     @Test
     public void evaluatesExpression3() {
 
-        int sum = 6;
+        int sum = 7;
         assertEquals(6, sum);
     }
     @Test
     public void evaluatesExpression4() {
 
-        int sum = 6;
+        int sum = 7;
         assertEquals(6, sum);
     }
 }
