@@ -15,4 +15,28 @@ public class TestUUUU {
         int sum = 6;
         assertEquals(6, sum);
     }
+    @Test
+    public void evaluatesExpression1() {
+
+        int sum = 6;
+        assertEquals(6, sum);
+    }
+    @Test
+    public void evaluatesExpression2() {
+
+        int sum = 6;
+        assertEquals(6, sum);
+    }
+    @Test
+    public void evaluatesExpression3() {
+
+        int sum = 6;
+        assertEquals(6, sum);
+    }
+    @Test
+    public void evaluatesExpression4() {
+
+        int sum = 6;
+        assertEquals(6, sum);
+    }
 }
